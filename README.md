@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "theme-elrodeo"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Elrodeo Color Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Elrodeo is a dark low-contrast color theme for Visual Studio Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![screenshot](https://github.com/chmllr/vsc-elrodeo-colorscheme/raw/master/screenshot.png)
 
-**Enjoy!**
+## Installation
+
+1. Open the Command Palete.
+2. Enter `ext install elrodeo`.
+3. Select the new color theme.
