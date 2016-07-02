@@ -7,5 +7,5 @@ Elrodeo is a dark low-contrast color theme for Visual Studio Code.
 ## Installation
 
 1. Open the Command Palete.
-2. Enter `ext install elrodeo`.
+2. Enter `ext install theme-elrodeo`
 3. Select the new color theme.
