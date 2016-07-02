@@ -3,7 +3,7 @@
     "displayName": "Elrodeo",
     "description": "Dark low-contrast color scheme.",
     "version": "0.0.1",
-    "publisher": "ChristianMueller",
+    "publisher": "chmllr",
     "engines": {
         "vscode": "^1.0.0"
     },
