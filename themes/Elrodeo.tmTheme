@@ -315,7 +315,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#30C080</string>
+                <string>#AE81FF</string>
             </dict>
         </dict>
         <dict>
@@ -325,8 +325,6 @@
             <string>markup.inline.raw</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#319899</string>
             </dict>
@@ -338,8 +336,10 @@
             <string>markup.heading</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
                 <key>foreground</key>
-                <string>#99DD99</string>
+                <string>#30C080</string>
             </dict>
         </dict>
         <dict>
@@ -349,10 +349,8 @@
             <string>markup.heading.setext</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
-                <string>#99DD99</string>
+                <string>#30C080</string>
             </dict>
         </dict>
 	</array>
