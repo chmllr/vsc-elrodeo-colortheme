@@ -284,6 +284,77 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+
+        <dict>
+            <key>name</key>
+            <string>Markup Quote</string>
+            <key>scope</key>
+            <string>markup.quote</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BBDDFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup Lists</string>
+            <key>scope</key>
+            <string>markup.list</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup Styling</string>
+            <key>scope</key>
+            <string>markup.bold, markup.italic</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#30C080</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup Inline</string>
+            <key>scope</key>
+            <string>markup.inline.raw</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#319899</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup Headings</string>
+            <key>scope</key>
+            <string>markup.heading</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#99DD99</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup Setext Header</string>
+            <key>scope</key>
+            <string>markup.heading.setext</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#99DD99</string>
+            </dict>
+        </dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
