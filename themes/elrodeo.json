@@ -356,7 +356,7 @@
 		"editor.foreground": "#b0b0b0",
 		"editorWidget.background": "#232a2a",
 		"editorCursor.foreground": "#ffffff",
-		"editorWhitespace.foreground": "#636d83",
+		"editorWhitespace.foreground": "#434a4a",
 		"editor.lineHighlightBackground": "#232a2a",
 		"editor.selectionBackground": "#232a2a",
 		// "editorIndentGuide.background": "",
