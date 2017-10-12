@@ -8,6 +8,7 @@
 #96bdb4
 #d0d5d5
 #b0b0b0
+#434a4a
 #e05252
 #ff0000
 #ffffff
