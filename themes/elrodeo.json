@@ -304,7 +304,7 @@
 
 		// Base
 		// "foreground": "",
-		"focusBorder": "#333a3a",
+		"focusBorder": "#2d9885",
 		// "contrastActiveBorder": "",
 		// "contrastBorder": "",
 
@@ -314,18 +314,18 @@
 
 		"input.background": "#232a2a",
 		"input.foreground": "#2d9885",
-		"input.placeholderForeground": "#2d9885",
+		"input.placeholderForeground": "#636d83",
 		// "input.border": "",
 
-		"inputOption.activeBorder": "#333a3a",
-		"inputValidation.infoBorder": "#232a2a",
+		"inputOption.activeBorder": "#2d9885",
+		"inputValidation.infoBorder": "#835fdd",
 		"inputValidation.infoBackground": "#232a2a",
 		"inputValidation.warningBackground": "#333a3a",
-		"inputValidation.warningBorder": "#2d9885",
+		"inputValidation.warningBorder": "#96bdb4",
 		"inputValidation.errorBackground": "#232a2a",
-		"inputValidation.errorBorder": "#2d9885",
+		"inputValidation.errorBorder": "#e05252",
 
-		"errorForeground": "#ff0000",
+		"errorForeground": "#e05252",
 
 		"badge.background": "#232a2a",
 		"progressBar.background": "#232a2a",
@@ -337,12 +337,12 @@
 		"button.background": "#2d9885",
 		// "button.foreground": "",
 
-		"list.activeSelectionBackground": "#20b070",
+		"list.activeSelectionBackground": "#636d83",
 		// "list.activeSelectionForeground": "",
-		"list.focusBackground": "#2d9885",
-		"list.hoverBackground": "#636d83",
-		"list.inactiveSelectionBackground": "#232a2a",
-		"list.inactiveSelectionForeground": "#20b070",
+		"list.focusBackground": "#636d83",
+		"list.hoverBackground": "#8fbadb",
+		"list.inactiveSelectionBackground": "#636d83",
+		"list.inactiveSelectionForeground": "#2d9885",
 		"list.dropBackground": "#96bdb4",
 		"list.highlightForeground": "#636d83",
 
