@@ -211,7 +211,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#e05252"
 			}
 		},
 		{
