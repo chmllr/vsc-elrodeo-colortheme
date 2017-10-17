@@ -338,13 +338,13 @@
 		// "button.foreground": "",
 
 		"list.activeSelectionBackground": "#636d83",
-		// "list.activeSelectionForeground": "",
+		// "list.activeSelectionForeground": "#2d9885",
 		"list.focusBackground": "#636d83",
 		"list.hoverBackground": "#636d83",
 		"list.inactiveSelectionBackground": "#636d83",
 		"list.inactiveSelectionForeground": "#d0d5d5",
 		"list.dropBackground": "#96bdb4",
-		"list.highlightForeground": "#636d83",
+		"list.highlightForeground": "#d0d5d5",
 
 		"scrollbar.shadow": "#00000000",
 		// "scrollbarSlider.activeBackground": "",
