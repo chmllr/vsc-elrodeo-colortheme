@@ -2,7 +2,7 @@
     "name": "theme-elrodeo",
     "displayName": "Elrodeo",
     "description": "Dark low-contrast color scheme.",
-    "version": "0.4.8",
+    "version": "0.4.9",
     "publisher": "chmllr",
     "engines": { "vscode": "*" },
     "categories": [
